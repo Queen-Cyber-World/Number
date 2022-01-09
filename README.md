@@ -1,6 +1,6 @@
 # Number ID Clonnig :)
 
-## <b>Installation</b>
+## Installation
 
 ```
 ✳️ pkg update
