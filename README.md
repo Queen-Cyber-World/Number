@@ -2,6 +2,7 @@
 
 ## <b>Installation</b>
 
+```
 ✳️ pkg update
 
 ✳️ pkg upgrade
