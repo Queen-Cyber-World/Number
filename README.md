@@ -1,9 +1,4 @@
-# Number
-## Screenshot
-![IMG_20220109-124435](https://user-images.githubusercontent.com/20220109-124435~2.png)
-
-## Results
-![Screenshot_2021-12-20-06-45-41-66](https://user-images.githubusercontent.com/1641710475584_6885832814585097451.jpeg)
+# Number ID Clonnig :)
 
 ## Installation
 
